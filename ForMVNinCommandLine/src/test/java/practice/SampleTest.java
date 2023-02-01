@@ -42,6 +42,7 @@ public class SampleTest {
 		driver.get(URL);
 		driver.findElement(By.name("user_name")).sendKeys(UN);
 		// pushed
+		// pulled
 		
 //		Code to run in the Maven Command Line
 //		mvn test -Dtest=SampleTest -Dbrowser=chrome -Durl=http://localhost:8888/ -Dusername=admin test
